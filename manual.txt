@@ -1,0 +1,1 @@
+interface input:  function:  ingresar valores de la forma 
